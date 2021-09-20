@@ -15,7 +15,7 @@ using System.Linq;
 namespace ParkingRateTest
 {
     /// <summary>
-    /// Parking Rate Test cases
+    /// Parking Rate Rule Test cases
     /// </summary>
     public class ParkingTests
     {
